@@ -1,0 +1,4 @@
+// config.json
+{
+    "token": "your_token" // Din token kan findes på https://discord.com/developers/applications
+}

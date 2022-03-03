@@ -1,0 +1,12 @@
+"name": "lg_playerbot",
+"version": "1.0.0",
+"description": "Fivem spiller bot",
+"main": "bot.js",
+"scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
+"author": "Luggi#3838",
+"license": "ISC",
+"dependencies": {
+  "discord.js": "github:vecchiotom/discord.js"
+}
